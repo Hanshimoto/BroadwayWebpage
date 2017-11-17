@@ -1,5 +1,39 @@
 * {
    text-align: center;
    font-family: helvetica;
+}
 
+p {
+   font-size: 14px;
+   color: DimGray;}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: White;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: DimGray;
+}
+
+h3 {
+    font-size: 23px;
+    font-weight: bold;
+    color: DimGray;
+}
+
+h4 {
+    font-size: 23px;
+    font-weight: bold;
+    color: White;
+}
+
+h5 {
+    font-size: 11px;
+    color: White;
+    background-color: DimGray;
+    text-align: left;
 }
